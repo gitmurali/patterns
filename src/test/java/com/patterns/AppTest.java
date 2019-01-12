@@ -1,6 +1,4 @@
-package com.patterns
-
--patterns;
+package com.patterns;
 
 import static org.junit.Assert.assertTrue;
 
