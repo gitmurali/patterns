@@ -1,4 +1,4 @@
-package com.patterns.creational;
+package com.patterns.creational.singleton;
 
 /**
  * @author muralinutalapati
