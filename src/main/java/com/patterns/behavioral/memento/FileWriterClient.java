@@ -10,6 +10,7 @@ public class FileWriterClient {
 
     // lets save the file
     caretaker.save(fileWriter);
+
     //now write something else
     fileWriter.write("Second Set of Data\n");
 
